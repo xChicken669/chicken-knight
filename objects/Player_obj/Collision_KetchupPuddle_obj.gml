@@ -1,0 +1,1 @@
+if (other.image_alpha > 0.6) {hp-=0.7}

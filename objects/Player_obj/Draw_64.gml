@@ -1,0 +1,1 @@
+draw_text(30,30,"Hold the escape key to get back to the main menu")
