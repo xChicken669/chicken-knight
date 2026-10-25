@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"KetchupSong",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":32.026123,
+  "exportDir":"",
+  "name":"KetchupSong",
+  "parent":{
+    "name":"I am just a little guy",
+    "path":"I am just a little guy.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"KetchupSong.mp3",
+  "volume":1.0,
+}

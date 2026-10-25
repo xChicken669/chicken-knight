@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"audio_ketchup_puddle_drops_heavy_very_slushy_sound_and_a",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.52351475,
+  "exportDir":"",
+  "name":"audio_ketchup_puddle_drops_heavy_very_slushy_sound_and_a",
+  "parent":{
+    "name":"I am just a little guy",
+    "path":"I am just a little guy.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"audio_ketchup_puddle_drops_heavy_very_slushy_sound_and_a.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"BeepBox",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":89.05143,
+  "exportDir":"",
+  "name":"BeepBox",
+  "parent":{
+    "name":"I am just a little guy",
+    "path":"I am just a little guy.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BeepBox.mp3",
+  "volume":1.0,
+}
